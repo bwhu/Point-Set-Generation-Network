@@ -18,14 +18,6 @@ representations such as volumetric grids or collection of images; however, these
 the structure is something like this:
 ![model](https://user-images.githubusercontent.com/10870023/31383934-ba9a5a70-ad71-11e7-8826-018c3d6a5216.png)
 
-
-## What will be implemented
-
-- dataloader for other datasets
-- 3D point set visualization
-- multi-view pointset generation
-
-
 [1]: http://ai.stanford.edu/~haosu/papers/SI2PC_arxiv_submit.pdf
 
 
