@@ -1,4 +1,4 @@
-# This repo is out-dated, and will no longer be developed. Thank you for your interest. If you are still interested, please refer to other modern implementation.
+## This repo is out-dated, and will no longer be developed. Thank you for your interest. If you are still interested, please refer to other modern implementation.
 
 # Point-Set-Generation-Network
 
