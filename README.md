@@ -1,3 +1,5 @@
+# This repo is up-dated, and will no longer be developed. Thank you for your interest. If you are still interested, please refer to other modern implementation.
+
 # Point-Set-Generation-Network
 
 It is a pytorch implementation of [A Point Set Generation Network for 3D Object Reconstruction from a Single Image ][1]
